@@ -30,7 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring10_Security_CustomConfiguration/Spring10_Security_CustomConfiguration.iml" filepath="$PROJECT_DIR$/Spring10_Security_CustomConfiguration/Spring10_Security_CustomConfiguration.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring10_Security_DefaultConfiguration/Spring10_Security_DefaultConfiguration.iml" filepath="$PROJECT_DIR$/Spring10_Security_DefaultConfiguration/Spring10_Security_DefaultConfiguration.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring10_Security_FormAuth/Spring10_Security_FormAuth.iml" filepath="$PROJECT_DIR$/Spring10_Security_FormAuth/Spring10_Security_FormAuth.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring10_HTTPBasic_AutRoleBase/Spring10_Security_HTTPBasic_AutRoleBase.iml" filepath="$PROJECT_DIR$/Spring10_HTTPBasic_AutRoleBase/Spring10_Security_HTTPBasic_AutRoleBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring10_Security_HTTPBasic_AutRoleBase/Spring10_Security_HTTPBasic_AutRoleBase.iml" filepath="$PROJECT_DIR$/Spring10_Security_HTTPBasic_AutRoleBase/Spring10_Security_HTTPBasic_AutRoleBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring10_Security_HTTPBasic_Database/Spring10_Security_HTTPBasic_Database.iml" filepath="$PROJECT_DIR$/Spring10_Security_HTTPBasic_Database/Spring10_Security_HTTPBasic_Database.iml" />
     </modules>
   </component>

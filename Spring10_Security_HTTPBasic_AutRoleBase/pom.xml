@@ -11,7 +11,7 @@
     <groupId>com</groupId>
     <artifactId>smlsnnshn</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Spring10_HTTPBasic_AutRoleBase</name>
+    <name>Spring10_Security_HTTPBasic_AutRoleBase</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
