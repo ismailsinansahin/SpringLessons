@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring00_LooselyCoupled/Spring00_LooselyCoupled.iml" filepath="$PROJECT_DIR$/Spring00_LooselyCoupled/Spring00_LooselyCoupled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring00_TightlyCoupled/Spring00_TightlyCoupled.iml" filepath="$PROJECT_DIR$/Spring00_TightlyCoupled/Spring00_TightlyCoupled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring01_SpringContainer/Spring01_SpringContainer.iml" filepath="$PROJECT_DIR$/Spring01_SpringContainer/Spring01_SpringContainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring02_DI_ConstructionInjection/Spring02_DI_ConstructionInjection.iml" filepath="$PROJECT_DIR$/Spring02_DI_ConstructionInjection/Spring02_DI_ConstructionInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring02_DI_SetterInjection/Spring02_DI_SetterInjection.iml" filepath="$PROJECT_DIR$/Spring02_DI_SetterInjection/Spring02_DI_SetterInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring03_BeanScope_Singleton_Prototype/Spring03_BeanScope_Singleton_Prototype.iml" filepath="$PROJECT_DIR$/Spring03_BeanScope_Singleton_Prototype/Spring03_BeanScope_Singleton_Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring04_BeanLifeCycle/Spring04_BeanLifeCycle.iml" filepath="$PROJECT_DIR$/Spring04_BeanLifeCycle/Spring04_BeanLifeCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring05_JavaAnnotations_Autowired/Spring05_JavaAnnotations_Autowired.iml" filepath="$PROJECT_DIR$/Spring05_JavaAnnotations_Autowired/Spring05_JavaAnnotations_Autowired.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring05_JavaAnnotations_Components/Spring05_JavaAnnotations_Components.iml" filepath="$PROJECT_DIR$/Spring05_JavaAnnotations_Components/Spring05_JavaAnnotations_Components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring05_JavaAnnotations_Qualifier/Spring05_JavaAnnotations_Qualifier.iml" filepath="$PROJECT_DIR$/Spring05_JavaAnnotations_Qualifier/Spring05_JavaAnnotations_Qualifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring05_JavaAnnotations_Value/Spring05_JavaAnnotations_Value.iml" filepath="$PROJECT_DIR$/Spring05_JavaAnnotations_Value/Spring05_JavaAnnotations_Value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring06_JavaCodeConfiguration/Spring06_JavaCodeConfiguration.iml" filepath="$PROJECT_DIR$/Spring06_JavaCodeConfiguration/Spring06_JavaCodeConfiguration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring06_PostConstruct_PreDestroy/Spring06_PostConstruct_PreDestroy.iml" filepath="$PROJECT_DIR$/Spring06_PostConstruct_PreDestroy/Spring06_PostConstruct_PreDestroy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring07_SpringBootDemo/Spring07_SpringBootDemo.iml" filepath="$PROJECT_DIR$/Spring07_SpringBootDemo/Spring07_SpringBootDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring08_MVC_Model_Thymeleaf/Spring08_MVC_Model_Thymeleaf.iml" filepath="$PROJECT_DIR$/Spring08_MVC_Model_Thymeleaf/Spring08_MVC_Model_Thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring08_SpringBoot_MVC_Controller/Spring08_SpringBoot_MVC_Controller.iml" filepath="$PROJECT_DIR$/Spring08_SpringBoot_MVC_Controller/Spring08_SpringBoot_MVC_Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring08_SpringBoot_MVC_Form/Spring08_SpringBoot_MVC_Form.iml" filepath="$PROJECT_DIR$/Spring08_SpringBoot_MVC_Form/Spring08_SpringBoot_MVC_Form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring09_ORM_CreateTable/Spring09_ORM_CreateTable.iml" filepath="$PROJECT_DIR$/Spring09_ORM_CreateTable/Spring09_ORM_CreateTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring09_ORM_DerivedQueries/Spring09_ORM_DerivedQueries.iml" filepath="$PROJECT_DIR$/Spring09_ORM_DerivedQueries/Spring09_ORM_DerivedQueries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring09_ORM_JPQL_NamedQueries/Spring09_ORM_JPQL_NamedQueries.iml" filepath="$PROJECT_DIR$/Spring09_ORM_JPQL_NamedQueries/Spring09_ORM_JPQL_NamedQueries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring09_ORM_Mapping_ManyToMany/Spring09_ORM_Mapping_ManyToMany.iml" filepath="$PROJECT_DIR$/Spring09_ORM_Mapping_ManyToMany/Spring09_ORM_Mapping_ManyToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring09_ORM_Mapping_ManyToOne/Spring09_ORM_Mapping_ManyToOne.iml" filepath="$PROJECT_DIR$/Spring09_ORM_Mapping_ManyToOne/Spring09_ORM_Mapping_ManyToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring09_ORM_Mapping_OneToMany/Spring09_ORM_Mapping_OneToMany.iml" filepath="$PROJECT_DIR$/Spring09_ORM_Mapping_OneToMany/Spring09_ORM_Mapping_OneToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring09_ORM_Mapping_OneToOne/Spring09_ORM_Mapping_OneToOne.iml" filepath="$PROJECT_DIR$/Spring09_ORM_Mapping_OneToOne/Spring09_ORM_Mapping_OneToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring09_SQLReview/Spring09_SQLReview.iml" filepath="$PROJECT_DIR$/Spring09_SQLReview/Spring09_SQLReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring10_Security_CustomConfiguration/Spring10_Security_CustomConfiguration.iml" filepath="$PROJECT_DIR$/Spring10_Security_CustomConfiguration/Spring10_Security_CustomConfiguration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring10_Security_DefaultConfiguration/Spring10_Security_DefaultConfiguration.iml" filepath="$PROJECT_DIR$/Spring10_Security_DefaultConfiguration/Spring10_Security_DefaultConfiguration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring10_Security_FormAuth/Spring10_Security_FormAuth.iml" filepath="$PROJECT_DIR$/Spring10_Security_FormAuth/Spring10_Security_FormAuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring10_HTTPBasic_AutRoleBase/Spring10_Security_HTTPBasic_AutRoleBase.iml" filepath="$PROJECT_DIR$/Spring10_HTTPBasic_AutRoleBase/Spring10_Security_HTTPBasic_AutRoleBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring10_Security_HTTPBasic_Database/Spring10_Security_HTTPBasic_Database.iml" filepath="$PROJECT_DIR$/Spring10_Security_HTTPBasic_Database/Spring10_Security_HTTPBasic_Database.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring06_PostConstruct_PreDestroy" />
+        <module name="Spring08_SpringBoot_MVC_Form" />
+        <module name="Spring09_ORM_CreateTable" />
+        <module name="Spring10_Security_HTTPBasic_Database" />
+        <module name="Spring09_ORM_DerivedQueries" />
+        <module name="Spring10_Security_HTTPBasic_AutRoleBase" />
+        <module name="Spring03_BeanScope_Singleton_Prototype" />
+        <module name="Spring02_DI_ConstructionInjection" />
+        <module name="Spring09_ORM_Mapping_ManyToOne" />
+        <module name="Spring00_TightlyCoupled" />
+        <module name="Spring02_DI_SetterInjection" />
+        <module name="Spring07_SpringBootDemo" />
+        <module name="Spring09_SQLReview" />
+        <module name="Spring09_ORM_Mapping_OneToMany" />
+        <module name="Spring07_SpringBootDemoApplication" />
+        <module name="Spring05_JavaAnnotations_Autowired" />
+        <module name="Spring06_JavaCodeConfiguration" />
+        <module name="Spring08_MVC_Model_Thymeleaf" />
+        <module name="Spring05_JavaAnnotations_Qualifier" />
+        <module name="Spring10_Security_CustomConfiguration" />
+        <module name="Spring09_ORM_Mapping_ManyToMany" />
+        <module name="Spring05_JavaAnnotations_Value" />
+        <module name="Spring05_JavaAnnotations_Components" />
+        <module name="Spring10_Security_DefaultConfiguration" />
+        <module name="Spring10_Security_FormAuth" />
+        <module name="Spring09_ORM_Mapping_OneToOne" />
+        <module name="Spring00_LooselyCoupled" />
+        <module name="Spring04_BeanLifeCycle" />
+        <module name="Spring01_SpringContainer" />
+        <module name="Spring08_SpringBoot_MVC_Controller" />
+        <module name="Spring09_ORM_JPQL_NamedQueries" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring00_LooselyCoupled" target="11" />
+      <module name="Spring00_TightlyCoupled" target="11" />
+      <module name="Spring01_SpringContainer" target="11" />
+      <module name="Spring02_DI_ConstructionInjection" target="11" />
+      <module name="Spring02_DI_SetterInjection" target="11" />
+      <module name="Spring03_BeanScope_Singleton_Prototype" target="11" />
+      <module name="Spring04_BeanLifeCycle" target="11" />
+      <module name="Spring05_JavaAnnotations_Autowired" target="11" />
+      <module name="Spring05_JavaAnnotations_Components" target="11" />
+      <module name="Spring05_JavaAnnotations_Qualifier" target="11" />
+      <module name="Spring05_JavaAnnotations_Value" target="11" />
+      <module name="Spring06_JavaCode_Configuration" target="13" />
+      <module name="Spring06_JavaCodeConfiguration" target="11" />
+      <module name="Spring06_PostConstruct_PreDestroy" target="11" />
+      <module name="Spring07_SpringBootDemo" target="11" />
+      <module name="Spring07_SpringBootDemoApplication" target="11" />
+      <module name="Spring08_MVC_Model_Thymeleaf" target="11" />
+      <module name="Spring08_SpringBoot_MVC_Controller" target="11" />
+      <module name="Spring08_SpringBoot_MVC_Form" target="11" />
+      <module name="Spring09_ORM_CreateTable" target="11" />
+      <module name="Spring09_ORM_DerivedQueries" target="11" />
+      <module name="Spring09_ORM_JPQL_NamedQueries" target="11" />
+      <module name="Spring09_ORM_Mapping_ManyToMany" target="11" />
+      <module name="Spring09_ORM_Mapping_ManyToOne" target="11" />
+      <module name="Spring09_ORM_Mapping_OneToMany" target="11" />
+      <module name="Spring09_ORM_Mapping_OneToOne" target="11" />
+      <module name="Spring09_SQLReview" target="13" />
+      <module name="Spring10_Security_CustomConfiguration" target="11" />
+      <module name="Spring10_Security_DefaultConfiguration" target="11" />
+      <module name="Spring10_Security_FormAuth" target="11" />
+      <module name="Spring10_Security_HTTPBasic_AutRoleBase" target="11" />
+      <module name="Spring10_Security_HTTPBasic_Database" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Spring00_LooselyCoupled" options="-parameters" />
+      <module name="Spring00_TightlyCoupled" options="-parameters" />
+      <module name="Spring01_SpringContainer" options="-parameters" />
+      <module name="Spring02_DI_ConstructionInjection" options="-parameters" />
+      <module name="Spring02_DI_SetterInjection" options="-parameters" />
+      <module name="Spring03_BeanScope_Singleton_Prototype" options="-parameters" />
+      <module name="Spring04_BeanLifeCycle" options="-parameters" />
+      <module name="Spring05_JavaAnnotations_Autowired" options="-parameters" />
+      <module name="Spring05_JavaAnnotations_Components" options="-parameters" />
+      <module name="Spring05_JavaAnnotations_Qualifier" options="-parameters" />
+      <module name="Spring05_JavaAnnotations_Value" options="-parameters" />
+      <module name="Spring06_JavaCodeConfiguration" options="-parameters" />
+      <module name="Spring06_JavaCode_Configuration" options="" />
+      <module name="Spring06_PostConstruct_PreDestroy" options="-parameters" />
+      <module name="Spring07_SpringBootDemo" options="-parameters" />
+      <module name="Spring07_SpringBootDemoApplication" options="-parameters" />
+      <module name="Spring08_MVC_Model_Thymeleaf" options="-parameters" />
+      <module name="Spring08_SpringBoot_MVC_Controller" options="-parameters" />
+      <module name="Spring08_SpringBoot_MVC_Form" options="-parameters" />
+      <module name="Spring09_ORM_CreateTable" options="-parameters" />
+      <module name="Spring09_ORM_DerivedQueries" options="-parameters" />
+      <module name="Spring09_ORM_JPQL_NamedQueries" options="-parameters" />
+      <module name="Spring09_ORM_Mapping_ManyToMany" options="-parameters" />
+      <module name="Spring09_ORM_Mapping_ManyToOne" options="-parameters" />
+      <module name="Spring09_ORM_Mapping_OneToMany" options="-parameters" />
+      <module name="Spring09_ORM_Mapping_OneToOne" options="-parameters" />
+      <module name="Spring10_Security_CustomConfiguration" options="-parameters" />
+      <module name="Spring10_Security_DefaultConfiguration" options="-parameters" />
+      <module name="Spring10_Security_FormAuth" options="-parameters" />
+      <module name="Spring10_Security_HTTPBasic_AutRoleBase" options="-parameters" />
+      <module name="Spring10_Security_HTTPBasic_Database" options="-parameters" />
+    </option>
+  </component>
+</project>
