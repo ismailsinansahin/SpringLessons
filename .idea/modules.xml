@@ -32,6 +32,9 @@
       <module fileurl="file://$PROJECT_DIR$/Spring10_Security_FormAuth/Spring10_Security_FormAuth.iml" filepath="$PROJECT_DIR$/Spring10_Security_FormAuth/Spring10_Security_FormAuth.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring10_Security_HTTPBasic_AutRoleBase/Spring10_Security_HTTPBasic_AutRoleBase.iml" filepath="$PROJECT_DIR$/Spring10_Security_HTTPBasic_AutRoleBase/Spring10_Security_HTTPBasic_AutRoleBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring10_Security_HTTPBasic_Database/Spring10_Security_HTTPBasic_Database.iml" filepath="$PROJECT_DIR$/Spring10_Security_HTTPBasic_Database/Spring10_Security_HTTPBasic_Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring11_API_Rest_HTTPVerbs_Legacy/Spring11_API_Rest_HTTPVerbs_Legacy.iml" filepath="$PROJECT_DIR$/Spring11_API_Rest_HTTPVerbs_Legacy/Spring11_API_Rest_HTTPVerbs_Legacy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring11_API_Rest_HTTPVerbs_Preferred/Spring11_API_Rest_HTTPVerbs_Preferred.iml" filepath="$PROJECT_DIR$/Spring11_API_Rest_HTTPVerbs_Preferred/Spring11_API_Rest_HTTPVerbs_Preferred.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring11_API_Rest_ResponseEntity/Spring11_API_Rest_ResponseEntity.iml" filepath="$PROJECT_DIR$/Spring11_API_Rest_ResponseEntity/Spring11_API_Rest_ResponseEntity.iml" />
     </modules>
   </component>
 </project>

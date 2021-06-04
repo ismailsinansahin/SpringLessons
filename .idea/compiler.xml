@@ -10,6 +10,7 @@
         <module name="Spring06_PostConstruct_PreDestroy" />
         <module name="Spring08_SpringBoot_MVC_Form" />
         <module name="Spring09_ORM_CreateTable" />
+        <module name="Spring11_API_Rest_ResponseEntity" />
         <module name="Spring10_Security_HTTPBasic_Database" />
         <module name="Spring09_ORM_DerivedQueries" />
         <module name="Spring10_Security_HTTPBasic_AutRoleBase" />
@@ -35,8 +36,10 @@
         <module name="Spring09_ORM_Mapping_OneToOne" />
         <module name="Spring00_LooselyCoupled" />
         <module name="Spring04_BeanLifeCycle" />
+        <module name="Spring11_API_Rest_HTTPVerbs_Legacy" />
         <module name="Spring01_SpringContainer" />
         <module name="Spring08_SpringBoot_MVC_Controller" />
+        <module name="Spring11_API_Rest_HTTPVerbs_Preferred" />
         <module name="Spring09_ORM_JPQL_NamedQueries" />
       </profile>
     </annotationProcessing>
@@ -73,6 +76,9 @@
       <module name="Spring10_Security_FormAuth" target="11" />
       <module name="Spring10_Security_HTTPBasic_AutRoleBase" target="11" />
       <module name="Spring10_Security_HTTPBasic_Database" target="11" />
+      <module name="Spring11_API_Rest_HTTPVerbs_Legacy" target="11" />
+      <module name="Spring11_API_Rest_HTTPVerbs_Preferred" target="11" />
+      <module name="Spring11_API_Rest_ResponseEntity" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -108,6 +114,9 @@
       <module name="Spring10_Security_FormAuth" options="-parameters" />
       <module name="Spring10_Security_HTTPBasic_AutRoleBase" options="-parameters" />
       <module name="Spring10_Security_HTTPBasic_Database" options="-parameters" />
+      <module name="Spring11_API_Rest_HTTPVerbs_Legacy" options="-parameters" />
+      <module name="Spring11_API_Rest_HTTPVerbs_Preferred" options="-parameters" />
+      <module name="Spring11_API_Rest_ResponseEntity" options="-parameters" />
     </option>
   </component>
 </project>
